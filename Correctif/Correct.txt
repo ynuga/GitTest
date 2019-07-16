@@ -1,0 +1,3 @@
+Ceci est un correctif
+Ce texte est écris après la création en mode instatanée d'une branche. Cette branche a par défaut les attributs de la dernière branche en 
+fonction
